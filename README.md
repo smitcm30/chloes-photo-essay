@@ -3,7 +3,6 @@ Website created for English 327: Digital Platforms for Publishing at University 
 <!DOCTYPE html>
 <html>
 <body>
-<h1 style="text-align:center">Photo Essay on Publishing</h1>
 <h2><i>By Chloe Smith</i></h2>
 <p style="text-align:center"><a data-flickr-embed="true" href="https://www.flickr.com/photos/202578054@N07/55121506825/in/dateposted-public/" title=""><img src="https://live.staticflickr.com/65535/55121506825_25372ab2fb_c.jpg" width="500" height="286" alt=""/></a></p>
 <h2><a href="https://flic.kr/p/2rYU8zk">Bookshelf Picture - Flickr</a></h2>
