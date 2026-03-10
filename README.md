@@ -14,9 +14,6 @@ Website created for English 327: Digital Platforms for Publishing at University 
 <body>
 <h1 style="text-align:center">Photo Essay on Publishing</h1>
 <h2><i>By Chloe Smith</i></h2>
-<blockquote>
-	<p><em>Note for Reading Response: To the HTML Tag Guide, I added "Changing Text Sizes" for one line or a whole paragraph.</em></p>
-</blockquote>
 <p style="text-align:center"><a data-flickr-embed="true" href="https://www.flickr.com/photos/202578054@N07/55121506825/in/dateposted-public/" title=""><img src="https://live.staticflickr.com/65535/55121506825_25372ab2fb_c.jpg" width="500" height="286" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 <h2><a href="https://flic.kr/p/2rYU8zk">Bookshelf Picture - Flickr</a></h2>
 <p>Since I was a child, I was <i>always</i> reading. The picture above shows my childhood bookshelf with some books I read as a kid–and some I’ve added since. Being able to have books physically in my hand has fostered a love for publishing.</p>
