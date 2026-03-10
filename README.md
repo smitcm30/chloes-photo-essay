@@ -1,2 +1,2 @@
 # chloes-photo-essay
-Chloe Smith will talk about publishing as it relates to their life. 
+Website created for English 327: Digital Platforms for Publishing at University of Wisconsin-Green Bay for Spring 2026. 
