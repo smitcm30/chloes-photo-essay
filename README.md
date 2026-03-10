@@ -2,15 +2,6 @@
 Website created for English 327: Digital Platforms for Publishing at University of Wisconsin-Green Bay for Spring 2026. Made by Chloe Smith, March 9th, 2026.
 <!DOCTYPE html>
 <html>
-<title>CS Photo Essay</title>
-<head>
-<style>
-		h1 {color: green;}
-		h2 {font-size: 14px;}
-		h2 {text-align:center;}
-  
-</style>
-</head>
 <body>
 <h1 style="text-align:center">Photo Essay on Publishing</h1>
 <h2><i>By Chloe Smith</i></h2>
