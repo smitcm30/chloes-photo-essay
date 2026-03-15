@@ -10,7 +10,7 @@ Website created for English 327: Digital Platforms for Publishing at University 
 </figure>
 <p>Since I was a child, I was <i>always</i> reading. The picture above shows my childhood bookshelf with some books I read as a kid–and some I’ve added since. Being able to have books physically in my hand has fostered a love for publishing.</p>
 <h2><a href="https://flic.kr/p/2rYTrsR">Kindle Picture - Flickr</a></h2>
-<img src="Photo Essay_Kindle_CS.jpeg" alt="Picture of my kindle" width="400" height="600">
+<img src="Photo Essay_Kindle_CS.jpeg" alt="Picture of my kindle" width="500" height="700">
 	<p><em><p style="font-size: 14px;"><i><figcaption>Figure 2: A picture of my kindle displaying The Snowball Effect by Haley Cass </figcaption></i></p></em></p>
 </figure>
 <blockquote>
@@ -18,7 +18,7 @@ Website created for English 327: Digital Platforms for Publishing at University 
 </blockquote>
 <p>Even though I love paper books, I do love ebooks just as much. The feeling of having any book I want in my hand in a semi-water-resistant form makes my world spin around, if I’m honest.</p>
 <h2><a href="https://flic.kr/p/2rYS8Vq">Guitar Picture - Flickr</a></h2>
-<img src="Photo Essay_Guitar Book_CS.jpeg" alt="Picture of my guitar and a guitar book" width="400" height="600">
+<img src="Photo Essay_Guitar Book_CS.jpeg" alt="Picture of my guitar and a guitar book" width="500" height="700">
 	<p><em><p style="font-size: 14px;"><i><figcaption>Figure 3: A picture of my guitar with a guitar book my dad found </figcaption></i></p></em></p>
 </figure>
 <p>Whenever I visit home, my dad is always showing me different guitar books he’s found around the house. Having these physical books to talk about with my dad has grown our connection in a way I’m forever thankful for. Publishing has been an important presence in my life since I was small, and now that I’m going into publishing, I’m hoping it’ll get to be even more important in the future. </p>
