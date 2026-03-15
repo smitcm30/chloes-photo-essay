@@ -5,9 +5,9 @@ Website created for English 327: Digital Platforms for Publishing at University 
 <body>
 <h2><i>By Chloe Smith</i></h2>
 <h2><a href="https://flic.kr/p/2rYU8zk">Bookshelf Picture - Flickr</a></h2>
-<img src="Photo Essay_Bookshelf_CS.jpeg" alt="Picture of my bookshelf">
+<p style="text-align:center"><img src="Photo Essay_Bookshelf_CS.jpeg" alt="Picture of my bookshelf">
 	<p><em><p style="font-size: 14px;"><i><figcaption>Figure 1: A picture of my bookshelf at my childhood home </figcaption></i></p></em></p>
-</figure>
+</figure></p>
 <p>Since I was a child, I was <i>always</i> reading. The picture above shows my childhood bookshelf with some books I read as a kid–and some I’ve added since. Being able to have books physically in my hand has fostered a love for publishing.</p>
 <h2><a href="https://flic.kr/p/2rYTrsR">Kindle Picture - Flickr</a></h2>
 <img src="Photo Essay_Kindle_CS.jpeg" alt="Picture of my kindle" width="600" height="800">
