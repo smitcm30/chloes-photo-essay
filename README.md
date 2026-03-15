@@ -16,8 +16,7 @@ Website created for English 327: Digital Platforms for Publishing at University 
 	<p><em><p style="font-size: 14px;"><i><figcaption>Figure 3: A picture of my guitar with a guitar book my dad found </figcaption></i></p></em></p>
 </p>
 <p>Whenever I visit home, my dad is always showing me different guitar books he’s found around the house. Having these physical books to talk about with my dad has grown our connection in a way I’m forever thankful for. Publishing has been an important presence in my life since I was small, and now that I’m going into publishing, I’m hoping it’ll get to be even more important in the future. </p>
+<br>
 <a href="Reflection">Reflection</a>
-
-
-
-
+</body>
+</html>
