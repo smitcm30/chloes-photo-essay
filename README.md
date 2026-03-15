@@ -9,13 +9,7 @@ Website created for English 327: Digital Platforms for Publishing at University 
 <p>Since I was a child, I was <i>always</i> reading. The picture above shows my childhood bookshelf with some books I read as a kid–and some I’ve added since. Being able to have books physically in my hand has fostered a love for publishing.</p>
 <h2><a href="https://flic.kr/p/2rYTrsR">Kindle Picture - Flickr</a></h2>
 <p style="text-align:center"><img src="Photo Essay_Kindle_CS.jpeg" alt="Picture of my kindle" width="600" height="800">
-	<p><em><p style="font-size: 14px;"><i><figcaption>Figure 2: A picture of my kindle displaying The Snowball Effect by Haley Cass </figcaption></i></p></em></p>
-</p>
-<blockquote>
-<p><em><p style="font-size: 14px;">Novel Pictured: The Snowball Effect by Haley Cass - <a href="https://www.authorhaleycass.com/books/the-snowball-effect">Ebook Version of The Snowball Effect</a></em></p>
-
-</blockquote>
-
+	<p><em><p style="font-size: 14px;"><i><figcaption>Figure 2: A picture of my kindle displaying <a href="https://www.authorhaleycass.com/books/the-snowball-effect">The Snowball Effect by Haley Cass</a></figcaption></i></p></em></p>
 <p>Even though I love paper books, I do love ebooks just as much. The feeling of having any book I want in my hand in a semi-water-resistant form makes my world spin around, if I’m honest.</p>
 <h2><a href="https://flic.kr/p/2rYS8Vq">Guitar Picture - Flickr</a></h2>
 <p style="text-align:center"><img src="Photo Essay_Guitar Book_CS.jpeg" alt="Picture of my guitar and a guitar book" width="600" height="800">
